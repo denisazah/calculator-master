@@ -1,8 +1,20 @@
-# calculator
-Simple calculator built with React
+Calculator
+---
 
-Install:
-npm install
 
-Usage:
-npm start
+Created with *create-react-app*.
+
+
+
+
+Install
+---
+
+`npm install`
+
+
+
+Usage
+---
+
+`npm start`
