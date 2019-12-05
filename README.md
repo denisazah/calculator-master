@@ -5,5 +5,4 @@ Install:
 npm install
 
 Usage:
-cd calculator-master
 npm start
