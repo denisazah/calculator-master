@@ -1,4 +1,4 @@
-# calculator-master
+# calculator
 Simple calculator built with React
 
 Install:
